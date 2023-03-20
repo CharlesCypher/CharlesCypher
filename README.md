@@ -1,5 +1,11 @@
+<div id="header" align="left">
+  <img src="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e47nk1r284m9t42grnsru664fnb5vz6dlro7pdwe294&rid=giphy.gif&ct=g" width="100"/>
+</div>
 <h1 align="left">Hey 👋🏾 I,m Charles a Front-End Developer 💻</h1>
-<h5 align="left">With 5 years of diverse experience in Sales, I am a highly adaptable and versatile professional who has transitioned into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.</h5>
+<div align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI4MTcwNzcxNzA1OTExMDY1NmE3YzI2NTNhOGIwZWI0YmFmZWMzOSZjdD1n/FNfcWhlz0GTkzcnZWh/giphy.gif" width="600" height="300"/>
+</div>
+<p align="left">I am an individual who possess conformable personalities. I have transmuted into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.</p>
 
 - 🌱 I’m currently learning **JavaScript Frameworks ✨**
 
