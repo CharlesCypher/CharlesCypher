@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript Frameworks ✨**
 
-- 👨‍💻 All of my projects are available at [https://corizon.vercel.app](https://corizon.vercel.app)
+- 👨‍💻 All of my projects are available at [https://chiagbaizucharles.vercel.app](https://chiagbaizucharles.vercel.app)
 
 - 📫 How to reach me **charleschinagorom10@gmail.com**
 
