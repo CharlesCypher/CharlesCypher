@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chiagbaizucharles.vercel.app](https://chiagbaizucharles.vercel.app)
 
-- 📫 How to reach me **charleschinagorom10@gmail.com**
+- 📫 How to reach me **freecorizon@gmail.com**
 
 - ⚡ Fun fact **I like playing video games 🎮 and listening to music 🎧**
 
