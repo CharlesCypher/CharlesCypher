@@ -7,13 +7,11 @@
 </div>
 <p align="left">I am an individual who possess conformable personalities. I have transmuted into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.</p>
 
-- 🌱 I’m currently learning **JavaScript Frameworks ✨**
+- 🌱 I’m currently learning **Object Oriented JavaScript ✨**
 
 - 👨‍💻 All of my projects are available at [https://chiagbaizucharles.vercel.app](https://chiagbaizucharles.vercel.app)
 
 - 📫 How to reach me **freecorizon@gmail.com**
-
-- ⚡ Fun fact **I like playing video games 🎮 and listening to music 🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
