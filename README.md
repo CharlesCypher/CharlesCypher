@@ -1,7 +1,7 @@
 <div id="header" align="left">
   <img src="https://media2.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif?cid=ecf05e47nk1r284m9t42grnsru664fnb5vz6dlro7pdwe294&rid=giphy.gif&ct=g" width="100"/>
 </div>
-<h1 align="left">Hey 👋🏾 I,m Charles a Front-End Developer 💻</h1>
+<h1 align="left">Hey 👋🏾 I'm Charles a Front-End Developer 💻</h1>
 <div align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI4MTcwNzcxNzA1OTExMDY1NmE3YzI2NTNhOGIwZWI0YmFmZWMzOSZjdD1n/FNfcWhlz0GTkzcnZWh/giphy.gif" width="600" height="300"/>
 </div>
